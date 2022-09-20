@@ -12,5 +12,5 @@ class Rocket:  # we should always start the name of the class with a capital let
 
 print('Name of the rocket:', Rocket.name)
 print('Color of the rocket:', Rocket.color)
-# these to lines will print because we called the attributes of the class
+# these two lines will print because we called the attributes of the class
 Rocket.launch()  # calling the object
